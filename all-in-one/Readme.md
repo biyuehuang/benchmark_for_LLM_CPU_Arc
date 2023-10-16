@@ -5,8 +5,7 @@ Before running, make sure to have [bigdl-llm](../../../README.md) and [bigdl-nan
 
 ## Dependencies
 ```bash
-pip install omegaconf
-pip install pandas
+pip install omegaconf pandas
 ```
 
 CPU
