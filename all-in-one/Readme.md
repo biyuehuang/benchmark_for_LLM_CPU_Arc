@@ -9,6 +9,16 @@ pip install omegaconf
 pip install pandas
 ```
 
+CPU
+```
+pip install --pre --upgrade bigdl-llm[all]
+```
+
+Arc
+```
+pip install --pre --upgrade bigdl-llm[xpu] -f https://developer.intel.com/ipex-whl-stable-xpu
+```
+
 ## Config
 Config YAML file has following format
 ```yaml
