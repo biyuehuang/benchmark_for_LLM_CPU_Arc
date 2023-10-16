@@ -11,6 +11,8 @@ pip install omegaconf pandas
 CPU
 ```
 pip install --pre --upgrade bigdl-llm[all]
+pip install bigdl-nano
+source bigdl-nano-init -c
 ```
 
 Arc
